@@ -1,0 +1,13 @@
+{
+  "name"        : "eop24-26229",
+  "project_url" : "https://github.com/Cracked5pider/eop24-26229",
+  "categories"  : ["exploit", "kaine", "privilege of escalation", "firebeam"],
+  "version"     : "0.1",
+  "license"     : "",
+  "description" : "A firebeam plugin that exploits the CVE-2024-26229 vulnerability to perform elevation of privilege from a privileged user",
+  "readme_path" : "README.md",
+  "author"      : {
+    "name"    : "5pider",
+    "url"     : "https://x.com/C5pider"
+  }
+}
