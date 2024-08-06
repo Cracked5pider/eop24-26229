@@ -6,6 +6,11 @@ The vulnerability is used to get kernel R/W memory access to corrupt the KTHREAD
 
 ![preview](https://raw.githubusercontent.com/Cracked5pider/eop24-26229/main/assets/image.png)
 
+The installation can be done automatically via the Havoc client plugin store and or manually installed by git cloning it into the havoc client plugin directory:
+```
+git clone https://github.com/Cracked5pider/eop24-26229 ~/.havoc/client/plugins/eop24-26229
+```
+
 ### credits
 - [original CVE-2024-26229 repo](https://github.com/varwara/CVE-2024-26229)
 - Eric Egsgard Talk at [OffensiveCon24 (video)](https://www.youtube.com/watch?v=2eHsnZ4BeDI)
