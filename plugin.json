@@ -4,7 +4,7 @@
   "categories"  : ["exploit", "kaine", "privilege of escalation", "firebeam"],
   "version"     : "0.1",
   "license"     : "",
-  "description" : "A firebeam plugin that exploits the CVE-2024-26229 vulnerability to perform elevation of privilege from a privileged user",
+  "description" : "A firebeam plugin that exploits the CVE-2024-26229 vulnerability to perform elevation of privilege from an unprivileged user",
   "readme_path" : "README.md",
   "author"      : {
     "name"    : "5pider",
